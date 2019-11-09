@@ -109,7 +109,7 @@ const App: React.FC = () => {
           <h2>Easily Export your excel data in any format</h2>
           <div className="upload-zone" {...getRootProps()}>
             <input {...getInputProps()} />
-            <p>Upload your file here</p>
+            <p>Choose your file here (It's not uploaded)</p>
           </div>
         </header>
         {file && (
