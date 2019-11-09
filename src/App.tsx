@@ -106,7 +106,7 @@ const App: React.FC = () => {
       <Container>
         <header className="App-header">
           <h1>Easy Reg</h1>
-          <h2>Easily Export your data in any format</h2>
+          <h2>Easily Export your excel data in any format</h2>
           <div className="upload-zone" {...getRootProps()}>
             <input {...getInputProps()} />
             <p>Upload your file here</p>
