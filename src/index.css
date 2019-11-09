@@ -1,7 +1,6 @@
 body {
   display: flex;
   justify-content: center;
-  background-color: darkblue;
   min-height: 100vh;
   text-align: center;
   align-items: center;
