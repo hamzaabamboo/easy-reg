@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/easy-reg/static/css/main.5f18043d.chunk.css",
+    "main.css": "/easy-reg/static/css/main.b9879a3e.chunk.css",
     "main.js": "/easy-reg/static/js/main.d5803945.chunk.js",
     "main.js.map": "/easy-reg/static/js/main.d5803945.chunk.js.map",
     "runtime-main.js": "/easy-reg/static/js/runtime-main.67e30842.js",
@@ -9,16 +9,16 @@
     "static/js/2.352ac2b2.chunk.js": "/easy-reg/static/js/2.352ac2b2.chunk.js",
     "static/js/2.352ac2b2.chunk.js.map": "/easy-reg/static/js/2.352ac2b2.chunk.js.map",
     "index.html": "/easy-reg/index.html",
-    "precache-manifest.b55ad178bf0ac942e3921adcc10a00b5.js": "/easy-reg/precache-manifest.b55ad178bf0ac942e3921adcc10a00b5.js",
+    "precache-manifest.aa575803f4be81d2b8dc53310a6f4a95.js": "/easy-reg/precache-manifest.aa575803f4be81d2b8dc53310a6f4a95.js",
     "service-worker.js": "/easy-reg/service-worker.js",
     "static/css/2.b0bb7f2c.chunk.css.map": "/easy-reg/static/css/2.b0bb7f2c.chunk.css.map",
-    "static/css/main.5f18043d.chunk.css.map": "/easy-reg/static/css/main.5f18043d.chunk.css.map"
+    "static/css/main.b9879a3e.chunk.css.map": "/easy-reg/static/css/main.b9879a3e.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.67e30842.js",
     "static/css/2.b0bb7f2c.chunk.css",
     "static/js/2.352ac2b2.chunk.js",
-    "static/css/main.5f18043d.chunk.css",
+    "static/css/main.b9879a3e.chunk.css",
     "static/js/main.d5803945.chunk.js"
   ]
 }
