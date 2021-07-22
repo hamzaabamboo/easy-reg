@@ -22,7 +22,7 @@
     "rxjs": "^6.5.3",
     "rxjs-hooks": "^0.5.2",
     "typescript": "3.7.2",
-    "xlsx": "^0.15.1"
+    "xlsx": "^0.17.0"
   },
   "scripts": {
     "start": "react-scripts start",
